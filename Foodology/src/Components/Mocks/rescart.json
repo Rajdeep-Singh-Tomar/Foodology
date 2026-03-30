@@ -1,0 +1,79 @@
+{
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+        "id": "795344",
+        "name": "KFC",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/f1416fd0-2399-47f7-9c97-77289f977278_795344.JPG",
+        "locality": "Lashkar",
+        "areaName": "Dindayal city mall",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "Burgers",
+            "Fast Food",
+            "Rolls & Wraps"
+        ],
+        "avgRating": 4.2,
+        "parentId": "547",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "1.0K+",
+        "sla": {
+            "deliveryTime": 26,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-08-09 03:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹121 OFF",
+            "subHeader": "ABOVE ₹999",
+            "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-c037b1a9-a1da-4f73-9041-29d877f039c2"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/gwalior/kfc-lashkar-dindayal-city-mall-rest795344",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
